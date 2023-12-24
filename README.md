@@ -1,39 +1,33 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
+v# Hello, World! 👋
 
-<div align="center" width="50">
+I'm Sahil Gulihar, a passionate Developer/Student.
+Starting my Github journey from January 2024
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Gulihar&color=blueviolet)
 
-
-
-
-
-<!--
-**Sahil-Gulihar/Sahil-Gulihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--## 🚀 About Me
+- 🔭 I’m currently working on [Current Project/Job].
+- 🌱 I’m currently learning [Technologies or Skills].
+- 👯 I’m looking to collaborate on [Open Source Projects].
+- 💬 Ask me about [Your Expertise].
+  ---->
+<!--## 🔧 Technologies & Tools
+- [Tech/Tool 1]
+- [Tech/Tool 2]
+- [Tech/Tool 3]
 -->
+## 📈 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Gulihsr&show_icons=true&count_private=true)](https://github.com/yourusername)
 
 
+<!--## 🛠️ Projects
+- [Project 1](link-to-project-1): Brief description.
+- [Project 2](link-to-project-2): Brief description.
+- [Project 3](link-to-project-3): Brief description.
+-->
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/sahil-gulihar-130573249/)
+- [Twitter](https://twitter.com/Sahil_Gulihar)
+- [Email](mailto:sahilgulihar@gmail.com)
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
-<summary>
-  Languages:
-</summary>
-<div>
-  HTML (Best)
-</div>
-
+⭐️ Thank you for visiting my profile! Let's connect and collaborate. ⭐️
