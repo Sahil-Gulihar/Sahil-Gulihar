@@ -1,4 +1,4 @@
-v# Hello, World! 👋
+Hello, World! 👋
 
 I'm Sahil Gulihar, a passionate Developer/Student.
 Starting my Github journey from January 2024
