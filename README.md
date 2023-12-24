@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-</div>
+
 
 
 
@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/Sahil-Gulihar/count.svg)
 
-</div>
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
 <summary>
   Languages:
 </summary>
