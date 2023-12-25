@@ -17,7 +17,7 @@ Starting my Github journey from January 2024
 - [Tech/Tool 3]
 -->
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Gulihar&show_icons=true&count_private=true)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Gulihar&show_icons=true&count_private=true)](https://github.com/Sahil-Gulihar)
 
 
 <!--## 🛠️ Projects
